@@ -37,7 +37,8 @@ I am actively looking to collaborate on:
 * 🌐 [Academic / Institutional Webpage](https://www.cmi.ac.in/people/academic.php)
 * Drop an e-mail: banashreebaishya.006@gmail.com
   
-
+### Location 
+* Chennai, India
 <!---
 shree1507/shree1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
